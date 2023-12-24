@@ -1,0 +1,20 @@
+/* .box {
+  height: 80px;
+  width: 80px;
+  background-color: beige;
+  color: black;
+  text-align: center;
+}
+.box:hover {
+  cursor: pointer;
+} */
+
+.dark {
+  background-color: black;
+  color: white;
+}
+
+.white {
+  background-color: white;
+  color: black;
+}
